@@ -105,7 +105,6 @@ namespace File_Operation1
         }
         static void Main(string[] args)
         {
-            int var = 10;
             string currentPath = ConfigurationSettings.AppSettings.Get("currentPath");
             while (true)
             {
